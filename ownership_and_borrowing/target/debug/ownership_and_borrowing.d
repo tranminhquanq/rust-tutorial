@@ -1,1 +1,0 @@
-/Users/tranminhquang/Documents/learn-resource/rust-programming/ownership_and_borrowing/target/debug/ownership_and_borrowing: /Users/tranminhquang/Documents/learn-resource/rust-programming/ownership_and_borrowing/src/main.rs
